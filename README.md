@@ -36,5 +36,4 @@ Certifique de ter as seguintes ferramentas instaladas em seu ambiente de desenvo
 
 2 - IDE - Eclipse - Certifique-se de baixar a versão que inclui suporte ao desenvolvimento Java. 
 
-![image-20231130230815284](/home/administrator/.config/Typora/typora-user-images/image-20231130230815284.png)
 
